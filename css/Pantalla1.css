@@ -1,0 +1,27 @@
+h1 {
+	color: #154360;
+}
+
+body {
+	background: #FDFEFE;
+}
+
+div.img {
+	position: relative;
+	margin-left: -10px;
+}
+
+div#texto {
+	top: 450px;
+	left: 150px;
+	position: absolute;
+	color: white;
+	font-size: 60px;
+}
+
+p#text {
+	margin-top: 250px;
+	font-size: 20px;
+	color: #154360;
+	font-weight: bold;
+}
