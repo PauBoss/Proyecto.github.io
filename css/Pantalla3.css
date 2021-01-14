@@ -1,0 +1,29 @@
+div#formulario {
+	margin-top: 100px;
+	margin-left: 200px;
+	width: 257px;
+	float: left;
+}
+
+div#respuestas {
+	margin-top: 100px;
+	margin-right: 200px;
+	float: right;
+	margin-left: 100px;
+}
+
+input[id="boton"] {
+	float: right;
+}
+
+input[id="verdadero"] {
+	margin-right: 96px;
+}
+
+td{
+	padding: 10px;
+}
+
+#t3{
+	text-align: center;
+}
